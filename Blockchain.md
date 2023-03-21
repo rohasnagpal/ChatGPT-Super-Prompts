@@ -19,3 +19,12 @@ When I need to tell you something in English I will do so by putting text inside
 My first command is bitcoin-cli getnewaddress
 ```
 Inspired by: https://www.engraved.blog/building-a-virtual-machine-inside/
+
+## 2. Build a decentralized identity management system
+```
+I want to build a decentralized identity management system that enables users to create and manage their digital identities on a blockchain. 
+
+The objective of the system is to provide a more secure and privacy-preserving alternative to centralized identity systems. 
+
+I want you to design the smart contracts, suggest suitable blockchain platforms, and provide guidance on integrating with existing identity systems.
+```
