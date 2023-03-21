@@ -1,4 +1,4 @@
-# Blockchain 
+# Law 
 ChatGPT Super Prompts for Lawyers
 
 ## 1. Summarize a judgement
